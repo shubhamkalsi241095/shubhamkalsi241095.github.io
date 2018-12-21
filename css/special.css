@@ -1,0 +1,42 @@
+body{
+     width: 100%;
+     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+     background-image: url("wave_subsection.png");
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: 40px 40px;
+}
+ h1{
+     width:600px;
+     margin-left: auto;
+     margin-right: auto;
+     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+ ul{
+     width:600px;
+     margin-left: auto;
+     margin-right: auto;
+     font-size:20px;
+}
+ div{
+     width:600px;
+     margin-left: auto;
+     margin-right: auto;
+     font-size:16px;
+     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+ #new{
+     float:right;
+     color:blue;
+     text-decoration: underline;
+}
+ #read{
+     width:600px;
+     margin-left: auto;
+     margin-right: auto;
+}
+ .read_less{
+     width:600px;
+     margin-left: auto;
+     margin-right: auto;
+}

@@ -1,0 +1,25 @@
+body{
+     width:100%;
+     position:fixed;
+}
+ h1{
+     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+     padding-left:470px;
+     background-image: url("wave_subsection.png");
+}
+ p{
+     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+     width:600px;
+     margin-left:auto;
+     margin-right:auto;
+     font-size:20px;
+}
+ h1 a{
+     font-size:14px;
+     color:blue;
+}
+ #new{
+     float:right;
+     color:blue;
+     text-decoration: underline;
+}

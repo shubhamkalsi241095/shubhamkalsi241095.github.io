@@ -1,0 +1,42 @@
+body{
+     width: 100%;
+     background-image: url("wave_subsection.png");
+}
+ #welcome h1{
+     position:relative;
+     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+     width:600px;
+     margin-left: auto;
+     margin-right: auto;
+	 
+}
+ h1 a{
+     margin-left:35px;
+     font-size:14px;
+     color:blue;
+}
+ #content{
+     width:600px;
+     margin-left: auto;
+     margin-right: auto;
+     font-style:italic;
+}
+ ul{
+     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+ li{
+     list-style:circle;
+}
+ #image{
+     position:relative;
+     
+     left:10px;
+     padding:1px;
+     border:1px solid #021a40;
+     box-shadow: 3px 3px 3px #777;
+}
+ #new{
+     float:right;
+     color:blue;
+     text-decoration: underline;
+}
